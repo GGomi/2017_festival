@@ -1,12 +1,11 @@
 # 2017_목포대학교_대동제
------
-> * Lineup 정보
 
 <p align="center">
-  <img src="README/google_report2.JPG" width="350"/>
-  <img src="your_relative_path_here_number_2_large_name" width="350"/>
+  <img src="README/yolo.JPG" width="600"/>
 </p>
 
+-----
+> * Lineup 정보
 > * 부스정보
 > * 주점투표
 > * 주점정보, 위치정보
