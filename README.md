@@ -1,10 +1,14 @@
 # 2017_목포대학교_대동제
 -----
+> * Lineup 정보
+<p align="center">
+  <img src="README/google_report2.JPG" width="350"/>
+  <img src="your_relative_path_here_number_2_large_name" width="350"/>
+</p>
 > * 부스정보
 > * 주점투표
 > * 주점정보, 위치정보
-> * Lineup 정보
-> * [링크](https://www.yololion.net)
+> * [YOLOLION](https://www.yololion.net)
 ------
 > ## 종합결과
 > * ![IMG](README/google_report2.JPG)
