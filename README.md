@@ -4,4 +4,4 @@
 > * 주점투표
 > * 주점정보, 위치정보
 > * Lineup 정보
-> * [링크](https://www.yololion.net)
+> * ![IMG](README/google_report_09_25.JPG)
