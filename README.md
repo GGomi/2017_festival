@@ -4,9 +4,23 @@
 > * 주점투표
 > * 주점정보, 위치정보
 > * Lineup 정보
-<<<<<<< HEAD
-> * ![IMG](README/google_report_09_25.JPG)
-=======
 > * [링크](https://www.yololion.net)
-> * ![IMG](https://drive.google.com/open?id=0BzEgswQ5TTN_VFdnbm5FWnRXVDg)
->>>>>>> dcb4e2bb7a3f45161593cde6386f56462690ed72
+------
+> ## 종합결과
+> * ![IMG](README/google_report2.JPG)
+
+> ## 9월 25일
+> * ![IMG](README/google_report_09_25.JPG)
+
+> ## 9월 26일
+> * ![IMG](README/google_report_09_26.JPG)
+
+> ## 9월 27일
+> * ![IMG](README/google_report_09_27.JPG)
+
+> ## 9월 28일
+> * ![IMG](README/google_report_09_28.JPG)
+
+> ## 9월 29일
+> * ![IMG](README/google_report_09_29.JPG)
+
