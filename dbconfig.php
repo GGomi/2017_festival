@@ -1,9 +1,9 @@
 <?php
 
-$mysql_hostname = 'maria.cthf9wfys1s9.ap-northeast-2.rds.amazonaws.com';
+$mysql_hostname = '';
 $mysql_username = 'root';
-$mysql_password = 'ghfkddl7973';
-$mysql_database = 'mnu_festi';
+$mysql_password = '';
+$mysql_database = '';
 $mysql_port = '3306';
 $mysql_charset = 'utf8';
 $ip=$_SERVER['REMOTE_ADDR'];
