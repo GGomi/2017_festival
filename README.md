@@ -9,7 +9,7 @@
 > * 부스정보
 > * 주점투표
 > * 주점정보, 위치정보
-> * [YOLOLION](https://www.yololion.net)
+> * [YOLOLION](http://www.yololion.net)
 ------
 > ## 종합결과
 > * ![IMG](README/google_report2.JPG)
